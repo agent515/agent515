@@ -48,9 +48,9 @@
 
 ### Techstack and Tools I work with : 🛠
 
-<div>
+<div style="width: 600px; display:flex; flex-direction: row; justify-content: space-between">
 
-<div style="float:left">
+<div>
 
 <div style="width: 65px; display:flex; flex-direction: row; justify-content: space-between">
 
@@ -106,7 +106,7 @@
 
 </div>
 
-<div style="float:right">
+<div>
 
 <img src="./assets/flutter-dev.svg" allt="Flutter-dev" width="200"/>
 
