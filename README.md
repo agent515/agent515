@@ -96,7 +96,7 @@
 
 <img align="left" alt="Android Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg" />
 
-</div></br>
+</div>
 
 </div>
 
