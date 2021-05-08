@@ -14,7 +14,7 @@
 
 ### How to reach me:
 
-<div style="width: 250px; display:flex; flex-direction: row; justify-content: space-between">
+<div>
 <a href="https://twitter.com/imRo51">
   <img  alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -36,7 +36,6 @@
   <img  alt="Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 </div>
-<br/>
 
 ### What I do:
 
@@ -48,19 +47,18 @@
 
 ### Techstack and Tools I work with : 🛠
 
-<div style="min-width: 400px; max-width: 600px; height: 200; display:flex; flex-direction: row; justify-content: space-between">
+<img align="right" src="./assets/flutter-dev.svg" allt="Flutter-dev" height="200"/>
 
-<div style="width: 200px; height: 200px; align-items:left">
-
-<div style="width: 65px; display:flex; flex-direction: row; justify-content: space-between">
+<div>
 
 <img alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
 
 <img  alt="Firebase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
 
-</div><br><br>
+</div>
+<br>
 
-<div style="width: 200px; display:flex; flex-direction: row; justify-content: space-between">
+<div>
 
 <img alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 
@@ -72,11 +70,13 @@
 
 <img  alt="Scikit-learn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scikit-learn.svg" />
 
-</div><br><br>
+</div>
 
-<div style="width: 200px; display:flex; flex-direction: row; justify-content: space-between">
+<br>
 
-<img  alt="Node.js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+<div>
+
+<img alt="Node.js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
 
 <img  alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 
@@ -86,9 +86,11 @@
 
 <img  alt="Bootstrap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
 
-</div><br><br>
+</div>
 
-<div style="width: 115px; display:flex; flex-direction: row; justify-content: space-between">
+<br>
+
+<div>
 
 <img  alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
 
@@ -98,11 +100,7 @@
 
 </div>
 
-</div>
-
-<img src="./assets/flutter-dev.svg" allt="Flutter-dev" height="200"/>
-
-</div><br><br>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=agent515&show_icons=true&theme=radical">
 
