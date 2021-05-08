@@ -50,7 +50,7 @@
 
 <div style="min-width: 400px; max-width: 600px; height: 200; display:flex; flex-direction: row; justify-content: space-between">
 
-<div>
+<div style="width: 200px; height: 200px; align-items:left">
 
 <div style="width: 65px; display:flex; flex-direction: row; justify-content: space-between">
 
@@ -58,7 +58,7 @@
 
 <img align="left" alt="Firebase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
 
-</div><br/>
+</div></br>
 
 <div style="width: 200px; display:flex; flex-direction: row; justify-content: space-between">
 
@@ -72,7 +72,7 @@
 
 <img align="left" alt="Scikit-learn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scikit-learn.svg" />
 
-</div><br/>
+</div></br>
 
 <div style="width: 200px; display:flex; flex-direction: row; justify-content: space-between">
 
@@ -86,7 +86,7 @@
 
 <img align="left" alt="Bootstrap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
 
-</div><br/>
+</div></br>
 
 <div style="width: 115px; display:flex; flex-direction: row; justify-content: space-between">
 
@@ -96,13 +96,13 @@
 
 <img align="left" alt="Android Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg" />
 
-</div><br/>
+</div></br>
 
 </div>
 
 <img src="./assets/flutter-dev.svg" allt="Flutter-dev" height="200"/>
 
-</div><br/>
+</div></br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=agent515&show_icons=true&theme=radical">
 
