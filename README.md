@@ -8,7 +8,7 @@
 
 </div>
 
-##### I am an IT engineer grad student in Mumbai University. Right now I am in the final semester.
+##### I am an IT engineering grad student in Mumbai University. Right now I am in the final semester.
 
 ##### Shinzou wo sasageyo!!!
 
