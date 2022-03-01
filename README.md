@@ -1,6 +1,6 @@
-<h2> Hi there! 👋</h2>
+# Hi there! 👋
 
-<div style="width:420px; display:flex; flex-direction: row; justify-content:space-between">
+<div style="width:420px; display:flex; flex-direction: row; justify-content:space-around">
 
 <img src="./assets/my.gif" alt="me" height="250"/>
 
@@ -8,52 +8,52 @@
 
 </div>
 
-##### I am an IT engineering grad student in Mumbai University. Right now I am in the final semester.
+# Shinzou wo sasageyo!!!:heart:
 
-##### Shinzou wo sasageyo!!!
+I am an IT engineer, graduated from University of Mumbai in 2021. I work at <a style="color:#FB5545" href="https://pixelapps.io/">Pixel Apps</a> as a <strong>Full-time Flutter Developer.</strong>
 
 ### How to reach me:
 
 <div>
 <a href="https://twitter.com/imRo51">
-  <img  alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img  alt="Twitter" width="22px" src="/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rohit-kokate-7676ba184/">
-  <img  alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img  alt="LinkdeIn" width="22px" src="/assets/linkedin.svg" />
 </a>
 <a href="https://github.com/agent515">
-  <img  alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img  alt="Github" width="22px" src="/assets/github.svg" />
 </a>
 
 <a href="https://www.hackerrank.com/agent515">
-  <img  alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img  alt="Hackerrank" width="22px" src="/assets/hackerrank.svg" />
 </a>
 <a href="https://www.instagram.com/acker_man_9/">
-  <img  alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img  alt="Instagram" width="22px" src="/assets/instagram.svg" />
 </a>
 
 <a href="https://www.reddit.com/user/agent515/">
-  <img  alt="Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img  alt="Reddit" width="22px" src="/assets/reddit.svg" />
 </a>
 </div>
 
 ### What I do:
 
 - 💻 I build apps using <strong>Flutter</strong>
-- 🌱 Learning <strong>React.js</strong> and <strong>Adobe XD</strong>
-- 🔍 Looking forward to do <strong>Open Source Contributions</strong>
+- 🌱 Learning <strong>Product Management</strong> with The Product Folks
+- 🔍 Looking forward to do more <strong>Open Source Contributions</strong>
 - 🤩 <strong>Blockchain</strong> excites me
 - ❤️ Sports, TV and Anime
 
-### Techstack and Tools I work with : 🛠
+### Techstack and Tools I have worked with : 🛠
 
 <img align="right" src="./assets/flutter-dev.svg" allt="Flutter-dev" height="200"/>
 
 <div>
 
-<img alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
+<img alt="Flutter" width="22px" src="/assets/flutter.svg" />
 
-<img  alt="Firebase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
+<img  alt="Firebase" width="22px" src="/assets/firebase.svg" />
 
 </div>
 <br>
@@ -62,7 +62,7 @@
 
 <img alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 
-<img  alt="Jupyter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg" />
+<img  alt="Jupyter" width="22px" src="/assets/jupyter.svg" />
 
 <img  alt="Tensorflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />
 
@@ -76,15 +76,15 @@
 
 <div>
 
-<img alt="Node.js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+<img alt="Node.js" width="22px" src="/assets/nodejs.svg" />
 
-<img  alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img  alt="HTML5" width="22px" src="assets/html5.svg" />
 
-<img  alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img  alt="CSS3" width="22px" src="assets/css3.svg" />
 
 <img  alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
 
-<img  alt="Bootstrap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
+<img  alt="Bootstrap" width="22px" src="/assets/bootstrap.svg" />
 
 </div>
 
@@ -92,7 +92,7 @@
 
 <div>
 
-<img  alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+<img  alt="Git" width="22px" src="assets/git.svg" />
 
 <img  alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 
@@ -104,4 +104,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=agent515&show_icons=true&theme=radical">
 
-⭐️ From [agent515](https://github.com/agent515)
+⭐️ from [agent515](https://github.com/agent515)
