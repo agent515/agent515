@@ -10,7 +10,7 @@
 
 # Shinzou wo sasageyo!!!:heart:
 
-I am an IT engineer, graduated from University of Mumbai in 2021. I work at <a style="color:#FB5545" href="https://pixelapps.io/">Pixel Apps</a> as a <strong>Full-time Flutter Developer.</strong>
+I am an IT engineer, graduated from University of Mumbai in 2021. I work at <a style="color:#FB5545" href="https://pixelapps.io/">Pixel Apps</a> as a <strong>Mid-Senior Level Flutter Developer.</strong>
 
 ### How to reach me:
 
