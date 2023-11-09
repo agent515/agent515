@@ -10,7 +10,7 @@
 
 # Shinzou wo sasageyo!!!:heart:
 
-I am an IT engineer, graduated from University of Mumbai in 2021. I work at [Privacy Bee](https://privacybee.com/) as a Flutter Developer (Independent Contractor).</strong>
+I am an IT engineer, graduated from University of Mumbai in 2021. I work at [Privacy Bee](https://privacybee.com/) as a Flutter Developer (Full-time).</strong>
 
 ### How to reach me:
 
