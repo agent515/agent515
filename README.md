@@ -8,9 +8,9 @@
 
 </div>
 
-# Shinzou wo sasageyo!!!:heart:
+# Shinzou wo sasageyo!!! :heart:
 
-I am an IT engineer, graduated from University of Mumbai in 2021. I work at [Privacy Bee](https://privacybee.com/) as a Mid-Senior Flutter Developer (Full-time).</strong>
+I am an IT engineer, graduated from University of Mumbai in 2021. I work at [Privacy Bee](https://privacybee.com/) as a Senior Mobile Application Developer (Flutter).</strong>
 
 ### How to reach me:
 
