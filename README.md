@@ -29,9 +29,9 @@ I build production-ready mobile apps and fast MVPs with scalable architecture an
 ---
 
 ## 📌 Selected Projects
-**Privacy Bee** — Encrypted chat, P2P transfer, Twilio Voice (solo mobile lead).  
-**RTYST** — Short-video app; reduced iOS audio latency by **88%**.  
-**Showing Verify** — Built and shipped a coordinated 3-app MVP in **8 weeks**.  
+**Privacy Bee** - Encrypted chat, P2P transfer, Twilio Voice (solo mobile lead).  
+**RTYST** - Short-video app; reduced iOS audio latency by **88%**.  
+**Showing Verify** - Built and shipped a coordinated 3-app MVP in **8 weeks**.  
 
 More details → **https://agent515.github.io/portfolio/**
 
